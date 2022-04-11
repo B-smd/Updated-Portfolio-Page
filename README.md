@@ -17,7 +17,7 @@ This Portfolio, I have made an updated a lot of things. I display all my works, 
 
 https://b-smd.github.io/Updated-Portfolio-Page/
 
-https://github.com/B-smd/Update-Portfolio-Page
+https://github.com/B-smd/Updated-Portfolio-Page.git
 
 https://b-smd.github.io/week3homework/
 
