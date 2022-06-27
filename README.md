@@ -19,13 +19,13 @@ https://b-smd.github.io/Updated-Portfolio-Page/
 
 https://github.com/B-smd/Updated-Portfolio-Page.git
 
-https://b-smd.github.io/week3homework/
+https://b-smd.github.io/Password-Generator/
 
 https://b-smd.github.io/codequiz/
 
 https://b-smd.github.io/Day-Planner/
 
-https://b-smd.github.io/Weather-Dashboard/
+https://b-smd.github.io/Weather-Dashboard-2/
 
 https://docs.google.com/presentation/d/1eVebT4IO4JAvaRzri6gZOe0RG_T9iABlIQI8fgy2x3Y/edit?usp=sharing
 
